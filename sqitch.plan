@@ -2,3 +2,4 @@
 %project=flipr
 %uri=git@github.com:MaxProvin/sqitch_intro.git
 
+appschema 2017-07-27T10:43:14Z Max Provin <maxprovin01@gmail.com> # add schema for all flipr objects
